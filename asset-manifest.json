@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/labt/static/css/main.5c2e09db.css",
+    "main.js": "/labt/static/js/main.cf5df5f7.js",
+    "static/js/453.9e2c73bf.chunk.js": "/labt/static/js/453.9e2c73bf.chunk.js",
+    "static/media/banner9.webp": "/labt/static/media/banner9.b3ba2a2a609a097f2fa0.webp",
+    "static/media/fa-solid-900.ttf": "/labt/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/labt/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/labt/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/labt/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/lab15.jpg": "/labt/static/media/lab15.b80e717f131763372620.jpg",
+    "static/media/fa-regular-400.ttf": "/labt/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/lab14.jpg": "/labt/static/media/lab14.f6d826d0ca9fce07b7b6.jpg",
+    "static/media/lab13.jpg": "/labt/static/media/lab13.1bb04c59ed8310c0b832.jpg",
+    "static/media/logo-lab.jpg": "/labt/static/media/logo-lab.28de6d0b64eeb306bbc2.jpg",
+    "static/media/lab1.webp": "/labt/static/media/lab1.cd20b8dd71249e681cc5.webp",
+    "static/media/fa-regular-400.woff2": "/labt/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/helpbanner.webp": "/labt/static/media/helpbanner.59785d22fd9d561a0e32.webp",
+    "static/media/fa-v4compatibility.ttf": "/labt/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/labt/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/labt/index.html",
+    "main.5c2e09db.css.map": "/labt/static/css/main.5c2e09db.css.map",
+    "main.cf5df5f7.js.map": "/labt/static/js/main.cf5df5f7.js.map",
+    "453.9e2c73bf.chunk.js.map": "/labt/static/js/453.9e2c73bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2e09db.css",
+    "static/js/main.cf5df5f7.js"
+  ]
+}
